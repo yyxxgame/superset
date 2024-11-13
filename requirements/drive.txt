@@ -1,0 +1,7 @@
+# 在这里添加需要的数据库驱动包
+# https://superset.apache.org/docs/configuration/databases
+
+mysqlclient==2.1.0
+pydoris==1.0.5.3
+clickhouse-connect==0.8.6
+elasticsearch-dbapi==0.2.11
